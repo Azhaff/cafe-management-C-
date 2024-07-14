@@ -1,0 +1,3 @@
+burger                1111               yummy                 150                  50
+pizza                2222               yummy                 180                  50
+studentspecial                3333                 yum                 250                  50

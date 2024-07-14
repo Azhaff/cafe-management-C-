@@ -1,0 +1,3 @@
+burger                1111               yummy                 150                  50
+pizza                1111               yummy                 150                 400
+facspecial                3333               yummy                 200                  50

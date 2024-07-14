@@ -1,0 +1,2 @@
+burger                1111                 yum                 100                  50
+burger                1212                 yum                 100                  40

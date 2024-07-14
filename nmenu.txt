@@ -1,0 +1,2 @@
+burger                1111               yummy                 180                  50
+pizza                2222               yummy                 200                 100
